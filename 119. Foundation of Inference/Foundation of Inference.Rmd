@@ -33,7 +33,7 @@ Consider the same situation as in the last exercise. A pharmaceutical company is
 Which would be a good alternative hypothesis?
 
 Possible Answers
-Drug A is better than drug B at treating diabetes.
+Drug A is better than drug B at treating diabetes. (Correct)
 Drug A is worse than drug B at treating diabetes.
 Drug A is different than drug B at treating diabetes (but you don't know if it is better or worse).
 Drug A is the same as drug B at treating diabetes.
@@ -53,8 +53,8 @@ Instructions
  - Use the names() function to list the variables included in NHANES. (See ?NHANES for more info.)
  - Create a barplot for HomeOwn broken down by Gender. Use geom_bar(position = "fill") to compare relative frequencies.
  - Create a density plot for SleepHrsNight colored by SleepTrouble and faceted by HealthGen.
- - Note that because of the discrete nature of the data collection, the density should be smoothed a bit using adjust = 2.
- - Use facet_wrap(~ HealthGen) for the faceting, which will make it easier to visualize how the variables of interest vary by.
+      - Note that because of the discrete nature of the data collection, the density should be smoothed a bit u sing adjust = 2.
+      - Use facet_wrap(~ HealthGen) for the faceting, which will make it easier to visualize how the variables of interest vary by.
  
  
  
@@ -98,10 +98,10 @@ The dplyr, ggplot2, and NHANES packages have been loaded for you.
 
 - Subset the NHANES dataset to consider only individuals whose home ownership status is either "Own" or "Rent". Save the result to homes.
 - Perform a single permutation to evaluate whether home ownership status (i.e. HomeOwn) differs between the "female" and "male" groups:
-- In your mutate() call, use sample() to shuffle home ownership status. Call this new variable HomeOwn_perm, a permuted version of HomeOwn.
-Group by Gender.
-- In both the original data and in the permuted data, compute the proportion of individuals who own a home. Note that this will calculate proportions for both genders since you've grouped by the Gender variable in the line before it.
-- Using the diff() function, calculate the difference in proportion of home ownership for both prop_own_perm, the permuted data, and prop_own, the original data.
+    - In your mutate() call, use sample() to shuffle home ownership status. Call this new variable HomeOwn_perm, a permuted version of HomeOwn.
+    - Group by Gender.
+    - In both the original data and in the permuted data, compute the proportion of individuals who own a home. Note that this will calculate proportions for both genders since you've grouped by the Gender variable in the line before it.
+    - Using the diff() function, calculate the difference in proportion of home ownership for both prop_own_perm, the permuted data, and prop_own, the original data.
 
 ```{r}
 # Subset the data: homes
@@ -128,6 +128,7 @@ As you saw in the video, natural variability can be modeled from shuffling obser
 
 homes %>% 
   rep_sample_n(size = 5, reps = 3)
+  
 will return three samples of 5 observations from the homes dataset you created in the last exercise. The first 5 rows will have a value of 1 in the replicate column, the next 5 rows will have a value of 2, and so on. Note that the default value for the replace argument is FALSE.
 
 In this exercise, you will permute the home ownership variable 10 times. By doing so, you will ensure that there is no relationship between home ownership and gender, so any difference in home ownership proportion for female versus male will be due only to natural variability.
@@ -202,7 +203,7 @@ ggplot(homeown_perm, aes(x = diff_perm)) +
   geom_dotplot(binwidth = 0.001)
 ```
 
- It's much easier to get a feel for the distribution now. In the next exercise, you'll see how 1000 permutations are distributed.
+It's much easier to get a feel for the distribution now. In the next exercise, you'll see how 1000 permutations are distributed.
  
 ### Randomization density
 

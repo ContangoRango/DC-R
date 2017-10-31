@@ -1,0 +1,1267 @@
+[[1]]
+[[1]]$success
+[1] TRUE
+
+[[1]]$details
+[[1]]$details$message
+[1] "check"
+
+
+[[1]]$timestamp
+[1] "2015-09-14 23:01:07 UTC"
+
+
+[[2]]
+[[2]]$success
+[1] TRUE
+
+[[2]]$details
+[[2]]$details$message
+[1] "all good"
+
+
+[[2]]$timestamp
+[1] "2015-09-15 00:00:13 UTC"
+
+
+[[3]]
+[[3]]$success
+[1] TRUE
+
+[[3]]$details
+[[3]]$details$message
+[1] "check"
+
+
+[[3]]$timestamp
+[1] "2015-09-15 01:00:43 UTC"
+
+
+[[4]]
+[[4]]$success
+[1] TRUE
+
+[[4]]$details
+[[4]]$details$message
+[1] "check"
+
+
+[[4]]$timestamp
+[1] "2015-09-15 02:01:18 UTC"
+
+
+[[5]]
+[[5]]$success
+[1] TRUE
+
+[[5]]$details
+[[5]]$details$message
+[1] "ok"
+
+
+[[5]]$timestamp
+[1] "2015-09-15 02:59:59 UTC"
+
+
+[[6]]
+[[6]]$success
+[1] TRUE
+
+[[6]]$details
+[[6]]$details$message
+[1] "all good"
+
+
+[[6]]$timestamp
+[1] "2015-09-15 04:01:08 UTC"
+
+
+[[7]]
+[[7]]$success
+[1] TRUE
+
+[[7]]$details
+[[7]]$details$message
+[1] "check"
+
+
+[[7]]$timestamp
+[1] "2015-09-15 05:03:20 UTC"
+
+
+[[8]]
+[[8]]$success
+[1] TRUE
+
+[[8]]$details
+[[8]]$details$message
+[1] "all good"
+
+
+[[8]]$timestamp
+[1] "2015-09-15 05:59:25 UTC"
+
+
+[[9]]
+[[9]]$success
+[1] TRUE
+
+[[9]]$details
+[[9]]$details$message
+[1] "all good"
+
+
+[[9]]$timestamp
+[1] "2015-09-15 06:59:29 UTC"
+
+
+[[10]]
+[[10]]$success
+[1] FALSE
+
+[[10]]$details
+[[10]]$details$message
+[1] "stack overflow"
+
+[[10]]$details$location
+[1] "control room"
+
+
+[[10]]$timestamp
+[1] "2015-09-15 08:00:53 UTC"
+
+
+[[11]]
+[[11]]$success
+[1] TRUE
+
+[[11]]$details
+[[11]]$details$message
+[1] "ok"
+
+
+[[11]]$timestamp
+[1] "2015-09-15 08:59:54 UTC"
+
+
+[[12]]
+[[12]]$success
+[1] TRUE
+
+[[12]]$details
+[[12]]$details$message
+[1] "ok"
+
+
+[[12]]$timestamp
+[1] "2015-09-15 10:00:39 UTC"
+
+
+[[13]]
+[[13]]$success
+[1] TRUE
+
+[[13]]$details
+[[13]]$details$message
+[1] "all good"
+
+
+[[13]]$timestamp
+[1] "2015-09-15 11:03:18 UTC"
+
+
+[[14]]
+[[14]]$success
+[1] TRUE
+
+[[14]]$details
+[[14]]$details$message
+[1] "check"
+
+
+[[14]]$timestamp
+[1] "2015-09-15 12:01:49 UTC"
+
+
+[[15]]
+[[15]]$success
+[1] TRUE
+
+[[15]]$details
+[[15]]$details$message
+[1] "check"
+
+
+[[15]]$timestamp
+[1] "2015-09-15 13:01:54 UTC"
+
+
+[[16]]
+[[16]]$success
+[1] TRUE
+
+[[16]]$details
+[[16]]$details$message
+[1] "ok"
+
+
+[[16]]$timestamp
+[1] "2015-09-15 14:02:27 UTC"
+
+
+[[17]]
+[[17]]$success
+[1] TRUE
+
+[[17]]$details
+[[17]]$details$message
+[1] "check"
+
+
+[[17]]$timestamp
+[1] "2015-09-15 15:06:20 UTC"
+
+
+[[18]]
+[[18]]$success
+[1] TRUE
+
+[[18]]$details
+[[18]]$details$message
+[1] "check"
+
+
+[[18]]$timestamp
+[1] "2015-09-15 16:05:48 UTC"
+
+
+[[19]]
+[[19]]$success
+[1] TRUE
+
+[[19]]$details
+[[19]]$details$message
+[1] "all good"
+
+
+[[19]]$timestamp
+[1] "2015-09-15 17:07:10 UTC"
+
+
+[[20]]
+[[20]]$success
+[1] FALSE
+
+[[20]]$details
+[[20]]$details$message
+[1] "segmentation fault"
+
+[[20]]$details$location
+[1] "waste"
+
+
+[[20]]$timestamp
+[1] "2015-09-15 18:07:58 UTC"
+
+
+[[21]]
+[[21]]$success
+[1] TRUE
+
+[[21]]$details
+[[21]]$details$message
+[1] "check"
+
+
+[[21]]$timestamp
+[1] "2015-09-15 19:08:24 UTC"
+
+
+[[22]]
+[[22]]$success
+[1] TRUE
+
+[[22]]$details
+[[22]]$details$message
+[1] "all good"
+
+
+[[22]]$timestamp
+[1] "2015-09-15 20:10:08 UTC"
+
+
+[[23]]
+[[23]]$success
+[1] FALSE
+
+[[23]]$details
+[[23]]$details$message
+[1] "human error"
+
+[[23]]$details$location
+[1] "reactor"
+
+
+[[23]]$timestamp
+[1] "2015-09-15 21:14:16 UTC"
+
+
+[[24]]
+[[24]]$success
+[1] TRUE
+
+[[24]]$details
+[[24]]$details$message
+[1] "check"
+
+
+[[24]]$timestamp
+[1] "2015-09-15 22:13:49 UTC"
+
+
+[[25]]
+[[25]]$success
+[1] TRUE
+
+[[25]]$details
+[[25]]$details$message
+[1] "ok"
+
+
+[[25]]$timestamp
+[1] "2015-09-15 23:14:57 UTC"
+
+
+[[26]]
+[[26]]$success
+[1] TRUE
+
+[[26]]$details
+[[26]]$details$message
+[1] "all good"
+
+
+[[26]]$timestamp
+[1] "2015-09-16 00:16:04 UTC"
+
+
+[[27]]
+[[27]]$success
+[1] TRUE
+
+[[27]]$details
+[[27]]$details$message
+[1] "check"
+
+
+[[27]]$timestamp
+[1] "2015-09-16 01:17:27 UTC"
+
+
+[[28]]
+[[28]]$success
+[1] TRUE
+
+[[28]]$details
+[[28]]$details$message
+[1] "ok"
+
+
+[[28]]$timestamp
+[1] "2015-09-16 02:17:04 UTC"
+
+
+[[29]]
+[[29]]$success
+[1] TRUE
+
+[[29]]$details
+[[29]]$details$message
+[1] "ok"
+
+
+[[29]]$timestamp
+[1] "2015-09-16 03:20:13 UTC"
+
+
+[[30]]
+[[30]]$success
+[1] TRUE
+
+[[30]]$details
+[[30]]$details$message
+[1] "all good"
+
+
+[[30]]$timestamp
+[1] "2015-09-16 04:22:47 UTC"
+
+
+[[31]]
+[[31]]$success
+[1] TRUE
+
+[[31]]$details
+[[31]]$details$message
+[1] "ok"
+
+
+[[31]]$timestamp
+[1] "2015-09-16 05:23:56 UTC"
+
+
+[[32]]
+[[32]]$success
+[1] TRUE
+
+[[32]]$details
+[[32]]$details$message
+[1] "ok"
+
+
+[[32]]$timestamp
+[1] "2015-09-16 06:23:06 UTC"
+
+
+[[33]]
+[[33]]$success
+[1] TRUE
+
+[[33]]$details
+[[33]]$details$message
+[1] "ok"
+
+
+[[33]]$timestamp
+[1] "2015-09-16 07:22:06 UTC"
+
+
+[[34]]
+[[34]]$success
+[1] TRUE
+
+[[34]]$details
+[[34]]$details$message
+[1] "ok"
+
+
+[[34]]$timestamp
+[1] "2015-09-16 08:21:56 UTC"
+
+
+[[35]]
+[[35]]$success
+[1] TRUE
+
+[[35]]$details
+[[35]]$details$message
+[1] "check"
+
+
+[[35]]$timestamp
+[1] "2015-09-16 09:20:00 UTC"
+
+
+[[36]]
+[[36]]$success
+[1] TRUE
+
+[[36]]$details
+[[36]]$details$message
+[1] "all good"
+
+
+[[36]]$timestamp
+[1] "2015-09-16 10:21:13 UTC"
+
+
+[[37]]
+[[37]]$success
+[1] TRUE
+
+[[37]]$details
+[[37]]$details$message
+[1] "ok"
+
+
+[[37]]$timestamp
+[1] "2015-09-16 11:21:27 UTC"
+
+
+[[38]]
+[[38]]$success
+[1] TRUE
+
+[[38]]$details
+[[38]]$details$message
+[1] "ok"
+
+
+[[38]]$timestamp
+[1] "2015-09-16 12:22:18 UTC"
+
+
+[[39]]
+[[39]]$success
+[1] TRUE
+
+[[39]]$details
+[[39]]$details$message
+[1] "ok"
+
+
+[[39]]$timestamp
+[1] "2015-09-16 13:24:54 UTC"
+
+
+[[40]]
+[[40]]$success
+[1] TRUE
+
+[[40]]$details
+[[40]]$details$message
+[1] "ok"
+
+
+[[40]]$timestamp
+[1] "2015-09-16 14:25:02 UTC"
+
+
+[[41]]
+[[41]]$success
+[1] TRUE
+
+[[41]]$details
+[[41]]$details$message
+[1] "ok"
+
+
+[[41]]$timestamp
+[1] "2015-09-16 15:22:59 UTC"
+
+
+[[42]]
+[[42]]$success
+[1] TRUE
+
+[[42]]$details
+[[42]]$details$message
+[1] "ok"
+
+
+[[42]]$timestamp
+[1] "2015-09-16 16:23:08 UTC"
+
+
+[[43]]
+[[43]]$success
+[1] TRUE
+
+[[43]]$details
+[[43]]$details$message
+[1] "check"
+
+
+[[43]]$timestamp
+[1] "2015-09-16 17:25:20 UTC"
+
+
+[[44]]
+[[44]]$success
+[1] TRUE
+
+[[44]]$details
+[[44]]$details$message
+[1] "all good"
+
+
+[[44]]$timestamp
+[1] "2015-09-16 18:25:45 UTC"
+
+
+[[45]]
+[[45]]$success
+[1] TRUE
+
+[[45]]$details
+[[45]]$details$message
+[1] "all good"
+
+
+[[45]]$timestamp
+[1] "2015-09-16 19:25:39 UTC"
+
+
+[[46]]
+[[46]]$success
+[1] TRUE
+
+[[46]]$details
+[[46]]$details$message
+[1] "check"
+
+
+[[46]]$timestamp
+[1] "2015-09-16 20:25:44 UTC"
+
+
+[[47]]
+[[47]]$success
+[1] TRUE
+
+[[47]]$details
+[[47]]$details$message
+[1] "check"
+
+
+[[47]]$timestamp
+[1] "2015-09-16 21:25:37 UTC"
+
+
+[[48]]
+[[48]]$success
+[1] TRUE
+
+[[48]]$details
+[[48]]$details$message
+[1] "check"
+
+
+[[48]]$timestamp
+[1] "2015-09-16 22:28:16 UTC"
+
+
+[[49]]
+[[49]]$success
+[1] TRUE
+
+[[49]]$details
+[[49]]$details$message
+[1] "check"
+
+
+[[49]]$timestamp
+[1] "2015-09-16 23:28:48 UTC"
+
+
+[[50]]
+[[50]]$success
+[1] TRUE
+
+[[50]]$details
+[[50]]$details$message
+[1] "check"
+
+
+[[50]]$timestamp
+[1] "2015-09-17 00:28:57 UTC"
+
+
+[[51]]
+[[51]]$success
+[1] FALSE
+
+[[51]]$details
+[[51]]$details$message
+[1] "stack overflow"
+
+[[51]]$details$location
+[1] "tubes"
+
+
+[[51]]$timestamp
+[1] "2015-09-17 01:31:51 UTC"
+
+
+[[52]]
+[[52]]$success
+[1] TRUE
+
+[[52]]$details
+[[52]]$details$message
+[1] "ok"
+
+
+[[52]]$timestamp
+[1] "2015-09-17 02:33:47 UTC"
+
+
+[[53]]
+[[53]]$success
+[1] TRUE
+
+[[53]]$details
+[[53]]$details$message
+[1] "ok"
+
+
+[[53]]$timestamp
+[1] "2015-09-17 03:32:17 UTC"
+
+
+[[54]]
+[[54]]$success
+[1] TRUE
+
+[[54]]$details
+[[54]]$details$message
+[1] "all good"
+
+
+[[54]]$timestamp
+[1] "2015-09-17 04:35:01 UTC"
+
+
+[[55]]
+[[55]]$success
+[1] TRUE
+
+[[55]]$details
+[[55]]$details$message
+[1] "check"
+
+
+[[55]]$timestamp
+[1] "2015-09-17 05:37:19 UTC"
+
+
+[[56]]
+[[56]]$success
+[1] TRUE
+
+[[56]]$details
+[[56]]$details$message
+[1] "ok"
+
+
+[[56]]$timestamp
+[1] "2015-09-17 06:35:20 UTC"
+
+
+[[57]]
+[[57]]$success
+[1] TRUE
+
+[[57]]$details
+[[57]]$details$message
+[1] "check"
+
+
+[[57]]$timestamp
+[1] "2015-09-17 07:36:10 UTC"
+
+
+[[58]]
+[[58]]$success
+[1] TRUE
+
+[[58]]$details
+[[58]]$details$message
+[1] "ok"
+
+
+[[58]]$timestamp
+[1] "2015-09-17 08:34:29 UTC"
+
+
+[[59]]
+[[59]]$success
+[1] TRUE
+
+[[59]]$details
+[[59]]$details$message
+[1] "check"
+
+
+[[59]]$timestamp
+[1] "2015-09-17 09:34:02 UTC"
+
+
+[[60]]
+[[60]]$success
+[1] TRUE
+
+[[60]]$details
+[[60]]$details$message
+[1] "ok"
+
+
+[[60]]$timestamp
+[1] "2015-09-17 10:33:19 UTC"
+
+
+[[61]]
+[[61]]$success
+[1] TRUE
+
+[[61]]$details
+[[61]]$details$message
+[1] "ok"
+
+
+[[61]]$timestamp
+[1] "2015-09-17 11:34:41 UTC"
+
+
+[[62]]
+[[62]]$success
+[1] TRUE
+
+[[62]]$details
+[[62]]$details$message
+[1] "ok"
+
+
+[[62]]$timestamp
+[1] "2015-09-17 12:33:41 UTC"
+
+
+[[63]]
+[[63]]$success
+[1] FALSE
+
+[[63]]$details
+[[63]]$details$message
+[1] "segmentation fault"
+
+[[63]]$details$location
+[1] "waste"
+
+
+[[63]]$timestamp
+[1] "2015-09-17 13:33:43 UTC"
+
+
+[[64]]
+[[64]]$success
+[1] TRUE
+
+[[64]]$details
+[[64]]$details$message
+[1] "check"
+
+
+[[64]]$timestamp
+[1] "2015-09-17 14:35:19 UTC"
+
+
+[[65]]
+[[65]]$success
+[1] FALSE
+
+[[65]]$details
+[[65]]$details$message
+[1] "human error"
+
+[[65]]$details$location
+[1] "waste"
+
+
+[[65]]$timestamp
+[1] "2015-09-17 15:34:22 UTC"
+
+
+[[66]]
+[[66]]$success
+[1] TRUE
+
+[[66]]$details
+[[66]]$details$message
+[1] "ok"
+
+
+[[66]]$timestamp
+[1] "2015-09-17 16:34:35 UTC"
+
+
+[[67]]
+[[67]]$success
+[1] TRUE
+
+[[67]]$details
+[[67]]$details$message
+[1] "ok"
+
+
+[[67]]$timestamp
+[1] "2015-09-17 17:35:00 UTC"
+
+
+[[68]]
+[[68]]$success
+[1] TRUE
+
+[[68]]$details
+[[68]]$details$message
+[1] "all good"
+
+
+[[68]]$timestamp
+[1] "2015-09-17 18:35:20 UTC"
+
+
+[[69]]
+[[69]]$success
+[1] TRUE
+
+[[69]]$details
+[[69]]$details$message
+[1] "ok"
+
+
+[[69]]$timestamp
+[1] "2015-09-17 19:34:08 UTC"
+
+
+[[70]]
+[[70]]$success
+[1] TRUE
+
+[[70]]$details
+[[70]]$details$message
+[1] "all good"
+
+
+[[70]]$timestamp
+[1] "2015-09-17 20:33:43 UTC"
+
+
+[[71]]
+[[71]]$success
+[1] TRUE
+
+[[71]]$details
+[[71]]$details$message
+[1] "check"
+
+
+[[71]]$timestamp
+[1] "2015-09-17 21:32:27 UTC"
+
+
+[[72]]
+[[72]]$success
+[1] TRUE
+
+[[72]]$details
+[[72]]$details$message
+[1] "check"
+
+
+[[72]]$timestamp
+[1] "2015-09-17 22:32:34 UTC"
+
+
+[[73]]
+[[73]]$success
+[1] TRUE
+
+[[73]]$details
+[[73]]$details$message
+[1] "ok"
+
+
+[[73]]$timestamp
+[1] "2015-09-17 23:34:26 UTC"
+
+
+[[74]]
+[[74]]$success
+[1] TRUE
+
+[[74]]$details
+[[74]]$details$message
+[1] "check"
+
+
+[[74]]$timestamp
+[1] "2015-09-18 00:34:56 UTC"
+
+
+[[75]]
+[[75]]$success
+[1] TRUE
+
+[[75]]$details
+[[75]]$details$message
+[1] "all good"
+
+
+[[75]]$timestamp
+[1] "2015-09-18 01:37:54 UTC"
+
+
+[[76]]
+[[76]]$success
+[1] TRUE
+
+[[76]]$details
+[[76]]$details$message
+[1] "ok"
+
+
+[[76]]$timestamp
+[1] "2015-09-18 02:36:15 UTC"
+
+
+[[77]]
+[[77]]$success
+[1] FALSE
+
+[[77]]$details
+[[77]]$details$message
+[1] "human error"
+
+[[77]]$details$location
+[1] "waste"
+
+
+[[77]]$timestamp
+[1] "2015-09-18 03:37:18 UTC"
+
+
+[[78]]
+[[78]]$success
+[1] TRUE
+
+[[78]]$details
+[[78]]$details$message
+[1] "ok"
+
+
+[[78]]$timestamp
+[1] "2015-09-18 04:34:42 UTC"
+
+
+[[79]]
+[[79]]$success
+[1] TRUE
+
+[[79]]$details
+[[79]]$details$message
+[1] "check"
+
+
+[[79]]$timestamp
+[1] "2015-09-18 05:34:40 UTC"
+
+
+[[80]]
+[[80]]$success
+[1] TRUE
+
+[[80]]$details
+[[80]]$details$message
+[1] "all good"
+
+
+[[80]]$timestamp
+[1] "2015-09-18 06:35:30 UTC"
+
+
+[[81]]
+[[81]]$success
+[1] TRUE
+
+[[81]]$details
+[[81]]$details$message
+[1] "check"
+
+
+[[81]]$timestamp
+[1] "2015-09-18 07:35:34 UTC"
+
+
+[[82]]
+[[82]]$success
+[1] TRUE
+
+[[82]]$details
+[[82]]$details$message
+[1] "check"
+
+
+[[82]]$timestamp
+[1] "2015-09-18 08:38:13 UTC"
+
+
+[[83]]
+[[83]]$success
+[1] TRUE
+
+[[83]]$details
+[[83]]$details$message
+[1] "check"
+
+
+[[83]]$timestamp
+[1] "2015-09-18 09:39:01 UTC"
+
+
+[[84]]
+[[84]]$success
+[1] TRUE
+
+[[84]]$details
+[[84]]$details$message
+[1] "check"
+
+
+[[84]]$timestamp
+[1] "2015-09-18 10:39:36 UTC"
+
+
+[[85]]
+[[85]]$success
+[1] TRUE
+
+[[85]]$details
+[[85]]$details$message
+[1] "check"
+
+
+[[85]]$timestamp
+[1] "2015-09-18 11:39:57 UTC"
+
+
+[[86]]
+[[86]]$success
+[1] TRUE
+
+[[86]]$details
+[[86]]$details$message
+[1] "ok"
+
+
+[[86]]$timestamp
+[1] "2015-09-18 12:41:17 UTC"
+
+
+[[87]]
+[[87]]$success
+[1] TRUE
+
+[[87]]$details
+[[87]]$details$message
+[1] "ok"
+
+
+[[87]]$timestamp
+[1] "2015-09-18 13:41:12 UTC"
+
+
+[[88]]
+[[88]]$success
+[1] TRUE
+
+[[88]]$details
+[[88]]$details$message
+[1] "all good"
+
+
+[[88]]$timestamp
+[1] "2015-09-18 14:42:09 UTC"
+
+
+[[89]]
+[[89]]$success
+[1] TRUE
+
+[[89]]$details
+[[89]]$details$message
+[1] "ok"
+
+
+[[89]]$timestamp
+[1] "2015-09-18 15:43:31 UTC"
+
+
+[[90]]
+[[90]]$success
+[1] TRUE
+
+[[90]]$details
+[[90]]$details$message
+[1] "all good"
+
+
+[[90]]$timestamp
+[1] "2015-09-18 16:44:50 UTC"
+
+
+[[91]]
+[[91]]$success
+[1] TRUE
+
+[[91]]$details
+[[91]]$details$message
+[1] "all good"
+
+
+[[91]]$timestamp
+[1] "2015-09-18 17:45:27 UTC"
+
+
+[[92]]
+[[92]]$success
+[1] TRUE
+
+[[92]]$details
+[[92]]$details$message
+[1] "all good"
+
+
+[[92]]$timestamp
+[1] "2015-09-18 18:48:43 UTC"
+
+
+[[93]]
+[[93]]$success
+[1] TRUE
+
+[[93]]$details
+[[93]]$details$message
+[1] "all good"
+
+
+[[93]]$timestamp
+[1] "2015-09-18 19:49:38 UTC"
+
+
+[[94]]
+[[94]]$success
+[1] TRUE
+
+[[94]]$details
+[[94]]$details$message
+[1] "ok"
+
+
+[[94]]$timestamp
+[1] "2015-09-18 20:50:24 UTC"
+
+
+[[95]]
+[[95]]$success
+[1] TRUE
+
+[[95]]$details
+[[95]]$details$message
+[1] "check"
+
+
+[[95]]$timestamp
+[1] "2015-09-18 21:50:54 UTC"
+
+
+[[96]]
+[[96]]$success
+[1] TRUE
+
+[[96]]$details
+[[96]]$details$message
+[1] "check"
+
+
+[[96]]$timestamp
+[1] "2015-09-18 22:47:49 UTC"
