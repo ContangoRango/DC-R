@@ -1,0 +1,25 @@
+---
+title: 'Sentiment Analysis in R: The Tidy Way'
+author: "Mohammad Shadan"
+date: "August 28, 2017"
+output: html_document
+---
+
+```{r}
+install.packages("tidytext")
+```
+
+
+```{r}
+# Load dplyr and tidytext
+library(dplyr)
+library(tidytext)
+
+# Choose the bing lexicon
+get_sentiments("bing")
+
+# Choose the nrc lexicon
+get_sentiments("nrc") %>%
+  count(sentiment) # Count words by sentiment
+```
+
